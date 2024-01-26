@@ -1,2 +1,2 @@
 # Cloud-Computing-Practicals
-Demonstrated and implemented practicals of cloud computing
+Here are my demonstrated and implemented practicals of Cloud computing taught by Professor Zahirabbas Mulani in my course of Data Science
